@@ -1,5 +1,4 @@
-[![shanks28's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shanks28)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Shanks28's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shanks28&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **shanks28/shanks28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
