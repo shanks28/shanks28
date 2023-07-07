@@ -1,0 +1,29 @@
+name: Update GitHub Stats
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Generate GitHub stats
+      uses: lowlighter/metrics@latest
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        user: shanks28
+        template: classic
+        base: header
+
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -am "Updated GitHub stats"
+        git push
