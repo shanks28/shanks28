@@ -2,7 +2,9 @@
 ![Counter](https://komarev.com/ghpvc/?username=shanks28)
 <!-- GitHub Stats -->
 <!-- GitHub Stats -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanks28)](https://github.com/shanks28)
+<!--[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanks28)](https://github.com/shanks28)-->
+<!-- GitHub Stats -->
+[![GitHub Stats](https://github.com/shanks28/shanks28/raw/main/github-metrics.svg)](https://github.com/shanks28/shanks28)
 
 <!--
 **shanks28/shanks28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
