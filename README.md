@@ -6,6 +6,7 @@
 <!-- GitHub Stats -->
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanks28)](https://github.com/shanks28)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanks28&layout=compact)](https://github.com/shanks28)
+https://github-profile-trophy.vercel.app/?username=shanks28&theme=matrix
 <!--
 **shanks28/shanks28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
