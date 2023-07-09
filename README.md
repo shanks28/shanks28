@@ -4,10 +4,11 @@
 <!-- GitHub Stats -->
 <!--[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanks28)](https://github.com/shanks28)-->
 <!-- GitHub Stats -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanks28)](https://github.com/shanks28)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanks28&layout=compact)](https://github.com/shanks28)
 <!-- GitHub Profile Trophy -->
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=shanks28)](https://github.com/shanks28)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanks28)](https://github.com/shanks28)
+
 <!--
 **shanks28/shanks28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
