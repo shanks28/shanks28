@@ -1,4 +1,5 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shanks28&bg_color=222222&color=ffffff&line=1890ff&point=ffffff&area=true&hide_border=false" />
+
 ![Counter](https://komarev.com/ghpvc/?username=shanks28)
 <!-- GitHub Stats -->
 <!-- GitHub Stats -->
