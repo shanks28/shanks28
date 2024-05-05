@@ -1,0 +1,26 @@
+name: Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs at midnight every day
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Generate snake game
+      uses: Platane/snk@master
+      with:
+        github_user_name: ${{ github.repository_owner }}
+        svg_out_path: dist/github-contribution-grid-snake.svg
+
+    - name: Commit and push if changed
+      run: |
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action"
+        git add .
+        git diff --staged --exit-code || git commit -m "Update README with the snake game"
+        git push
