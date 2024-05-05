@@ -9,7 +9,7 @@
 
 <!-- GitHub Profile Trophy -->
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=shanks28)](https://github.com/shanks28)
-![snake gif](https://github.com/shanks28/shanks28/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/shanks28/shanks28/blob/master/github-contribution-grid-snake.svg)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanks28)](https://github.com/shanks28)
 
