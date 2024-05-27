@@ -1,4 +1,4 @@
-name: Snake
+name: Contributor Graph
 
 on:
   schedule:
@@ -11,16 +11,17 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-    - name: Generate snake game
-      uses: Platane/snk@master
+    - name: Generate contributor graph
+      uses: denolfe/contributor-graph@v1
       with:
-        github_user_name: ${{ github.repository_owner }}
-        svg_out_path: dist/github-contribution-grid-snake.svg
+        username: ${{ github.repository_owner }}
+        token: ${{ secrets.GITHUB_TOKEN }}
+        output_path: dist/github-contributor-graph.svg
 
     - name: Commit and push if changed
       run: |
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
         git add .
-        git diff --staged --exit-code || git commit -m "Update README with the snake game"
+        git diff --staged --exit-code || git commit -m "Update README with the contributor graph"
         git push
