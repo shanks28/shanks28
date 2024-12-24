@@ -33,10 +33,14 @@
 
 ---
 
-### My Projects  
+### My Projects
+
+<div align="center">
 
 | Name         | Domain              |Tools                                  |
 |--------------|---------------------|---------------------------------------|
 | Image Classifier   | CNNs     | Python, Pytorch , CNNs      |
 | Content Repurposing      | GenAI   |FastAPI, Docker, AWS, T5 Model   |
 | FILM | Frame Interpolation | Python, Pytorch , AWS(S3) | 
+
+</div> 
