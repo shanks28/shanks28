@@ -38,7 +38,7 @@
 |--------------|---------------------|---------------------------------------|
 | Image Classifier   | CNNs     | Python, Pytorch , CNNs      |
 | Content Repurposing      | GenAI   |FastAPI, Docker, AWS, T5 Model   |
-| Resume Parser| Frmae Interpolation | Python, Pytorch , AWS(S3) | 
+| FILM | Frmae Interpolation | Python, Pytorch , AWS(S3) | 
 
 ---
 ---
