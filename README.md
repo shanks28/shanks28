@@ -3,7 +3,7 @@
 
 ---
 
-### 🔭 I'm currently uncovering the secrets of building efficient web applications.  
+### 🔭 I'm currently uncovering the secrets of building efficient Computer Algorithms.  
 
 💹 I like to build applications using Python and AWS for scaling and writing efficient algorithms. Passionate about computer science and exploring innovative solutions.  
 
