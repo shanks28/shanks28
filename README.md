@@ -7,7 +7,7 @@
 
 💹 I like to build applications using Python and AWS for scaling and writing efficient algorithms. Passionate about computer science and exploring innovative solutions.  
 
-📫 How to reach me - [gaunterodim68@gmail.com)  
+📫 How to reach me - [cant@man.com)  
 
 ---
 
