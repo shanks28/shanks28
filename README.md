@@ -6,10 +6,7 @@
 
 ### ⚙️ Software Engineer · Systems · Backend · AI Tools
 
-```bash
-$ whoami
-> engineer who ships queues, APIs, retries, and quiet reliability
-```
+*I build backend systems and tools that make complex things simple.*
 
 </div>
 
